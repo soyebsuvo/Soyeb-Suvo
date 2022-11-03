@@ -1,0 +1,78 @@
+#login-btn{
+    padding: 5px 15px;
+    margin-right: 15px;
+}
+#contact-btn{
+    padding: 5px 15px;
+}
+.navbar-brand{
+    margin-left: 30px;
+}
+.navbar-nav{
+    margin-right: 150px;
+}
+
+.for-s{
+    font-size: 2.5rem;
+    font-family: 'Satisfy', cursive;
+    font-weight: bold;
+}
+.for-extra{
+    font-size: 2.0rem;
+    font-style: italic;
+}
+
+.navbar ul li a{
+  font-size: 1.2rem;
+}
+
+.iam{
+    font-size: 1.9rem;
+    font-weight: bold;
+    font-style: italic;
+}
+.web{
+    font-size: 2.9rem !important;
+}
+.for-d{
+    font-size: 3.9rem;
+}
+.for-e{
+    font-size: 3.2rem;
+}
+
+.banner-1st-text{
+    margin-top: 120px;
+}
+.for-banner{
+    height: 100vh;
+}
+.inbannerpic .me{
+    width: 330px;    
+    margin: 90px 0px 30px 0px;
+}
+
+.hire-btn{    
+    font-size: 1.2rem;    
+    padding: 6px 18px;
+}
+#about-section{
+    padding: 20px;
+}
+.my-about-pic img{
+    width: 270px;
+}
+
+.about-me-text{
+    margin-top: 150px;
+    padding: 40px 180px 40px 20px;
+}
+.main-card{
+    margin: 34px;
+}
+#submit{
+    font-size: 1.2rem;
+}
+#reset{
+    font-size: 1.2rem;
+}
